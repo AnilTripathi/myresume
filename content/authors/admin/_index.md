@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Lead Full Stack Developer (JAVA Full Stack Developer)
+role: JAVA Full Stack Developer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
