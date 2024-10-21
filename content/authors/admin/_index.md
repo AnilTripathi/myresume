@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lead Full Stack Developer
+title: Software Engineer
 
 # Name pronunciation (optional)
 name_pronunciation: Anil Kumar Tripathi
