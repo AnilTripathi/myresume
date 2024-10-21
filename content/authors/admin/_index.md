@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Lead Full Stack Developer
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Anil Kumar Tripathi
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Anil Kumar
+last_name: Tripathi
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Tech lead Full Stack Developer (JAVA Full Stack Developer)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -31,16 +31,16 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:tripathi.987@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/AnilTripathi
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/tripathianil
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
