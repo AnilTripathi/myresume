@@ -1,6 +1,6 @@
 ---
 # Display name
-title: S/W Engineer
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Anil Kumar Tripathi
