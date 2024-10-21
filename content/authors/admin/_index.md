@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Software Engineer
+title: S/W Engineer
 
 # Name pronunciation (optional)
 name_pronunciation: Anil Kumar Tripathi
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Tech lead Full Stack Developer (JAVA Full Stack Developer)
+role: Lead Full Stack Developer (JAVA Full Stack Developer)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
